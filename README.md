@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" alt="banner"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="40%" alt="banner"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=2000&pause=99999&color=CBD5E0&center=true&vCenter=true&width=900&lines=MOHAMMED+RIF+AHSAN)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=48&duration=2000&pause=99999&color=CBD5E0&center=true&vCenter=true&width=900&lines=MOHAMMED+RIF+AHSAN)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=48&duration=2000&pause=99999&color=79DAFA&center=true&vCenter=true&width=900&lines=rif__x43)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=99999&color=79DAFA&center=true&vCenter=true&width=900&lines=rif__x43)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=16&duration=3000&pause=1000&color=A9B8D4&center=true&vCenter=true&width=900&lines=Algorithms+first.+Software+next.;Competitive+programming+is+the+core.;Development+is+the+next+layer.;Building+in+silence.+Competing+in+noise.)](https://git.io/typing-svg)
 
@@ -16,7 +16,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=rif-x43&color=79DAFA&style=flat-square&label=PROFILE+VIEWS" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=rif-x43&color=050505&style=flat-square&label=PROFILE+VIEWS" alt="views"/>
 
 </div>
 
@@ -26,9 +26,9 @@
 
 <br/>
 
-<table>
+<table align="center">
 <tr>
-<td width="56%" valign="top">
+<td width="200%" valign="top">
 
 ### ⚡ &nbsp;C U R R E N T L Y
 
@@ -37,16 +37,11 @@ name     : Mohammed Rif Ahsan
 handle   : rif__x43
 degree   : B.Sc. in Computer Science & Engineering
 uni      : Ahsanullah University of Science & Technology
-year     : 1st Year — 2nd Semester
+year     : 1st Year | 2nd Semester
 focus    : Competitive Programming (primary)
 building : Software development fundamentals
 mode     : Grinding. Always.
 ```
-
-</td>
-<td width="44%" align="center" valign="middle">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" alt="coding"/>
 
 </td>
 </tr>
@@ -101,7 +96,7 @@ mode     : Grinding. Always.
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/🟦_Codeforces-PUPIL-1F8ACB?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🟢_Codeforces-PUPIL-1F8ACB?style=for-the-badge&logoColor=white"/>
 <br/>
 <sub><samp>Active · rif__x43</samp></sub>
 </td>
@@ -111,7 +106,7 @@ mode     : Grinding. Always.
 <sub><samp>ACC 6.0 · AUST CSE Carnival</samp></sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/🎯_HACKATHON-4TH_PLACE-FF6B35?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻_HACKATHON-4TH_PLACE-FF6B35?style=for-the-badge&logoColor=white"/>
 <br/>
 <sub><samp>ACC 7.0 · AUST CSE Carnival</samp></sub>
 </td>
@@ -181,7 +176,7 @@ mode     : Grinding. Always.
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,git,vscode&theme=dark" alt="tools"/>
+<img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,flutter,laravel,react,figma,ps,ai,git,github,vscode,vercel&theme=dark" alt="tools"/>
 
 </div>
 
@@ -212,14 +207,6 @@ mode     : Grinding. Always.
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="38%" alt="footer-left"/>
-&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="38%" alt="footer-right"/>
-
-<br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="footer-wave"/>
 
