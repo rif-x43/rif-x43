@@ -94,23 +94,35 @@ mode     : Grinding. Always.
 <br/><br/>
 
 <table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🟢_Codeforces-PUPIL-1F8ACB?style=for-the-badge&logoColor=white"/>
-<br/>
-<sub><samp>Active · rif__x43</samp></sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🏆_IAPC-FINALIST-FFD700?style=for-the-badge&logoColor=black"/>
-<br/>
-<sub><samp>ACC 6.0 · AUST CSE Carnival</samp></sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/💻_HACKATHON-6TH_PLACE-FF6B35?style=for-the-badge&logoColor=white"/>
-<br/>
-<sub><samp>ACC 7.0 · AUST CSE Carnival</samp></sub>
-</td>
-</tr>
+  <tr>
+    <td align="center" width="33%" colspan="2">
+      <img src="https://img.shields.io/badge/🟢_Codeforces-PUPIL-1F8ACB?style=for-the-badge&logoColor=white"/>
+      <br/>
+      <sub><samp>Active · rif__x43</samp></sub>
+    </td>
+    <td align="center" width="33%" colspan="2">
+      <img src="https://img.shields.io/badge/🏆_IAPC-FINALIST-FFD700?style=for-the-badge&logoColor=black"/>
+      <br/>
+      <sub><samp>ACC <6.0> · AUST CSE Carnival</samp></sub>
+    </td>
+    <td align="center" width="33%" colspan="2">
+      <img src="https://img.shields.io/badge/💻_HACKATHON-6TH_PLACE-FF6B35?style=for-the-badge&logoColor=white"/>
+      <br/>
+      <sub><samp>ACC <7.0> · AUST CSE Carnival</samp></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" colspan="3">
+      <img src="https://img.shields.io/badge/🏆_IAPC-CHAMPION-FFD200?style=for-the-badge&logoColor=black"/>
+      <br/>
+      <sub><samp>IAPC SPRING'25 · AUSTPIC</samp></sub>
+    </td>
+    <td align="center" width="50%" colspan="3">
+      <img src="https://img.shields.io/badge/🚩_CTF-RUNNERS--UP-FFA2FA?style=for-the-badge&logoColor=black"/>
+      <br/>
+      <sub><samp>ACC <8.0> · AUST CSE Carnival</samp></sub>
+    </td>
+  </tr>
 </table>
 
 </div>
