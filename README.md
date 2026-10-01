@@ -106,7 +106,7 @@ mode     : Grinding. Always.
 <sub><samp>ACC 6.0 · AUST CSE Carnival</samp></sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/💻_HACKATHON-4TH_PLACE-FF6B35?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻_HACKATHON-6TH_PLACE-FF6B35?style=for-the-badge&logoColor=white"/>
 <br/>
 <sub><samp>ACC 7.0 · AUST CSE Carnival</samp></sub>
 </td>
