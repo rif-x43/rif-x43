@@ -10,11 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=16&duration=3000&pause=1000&color=A9B8D4&center=true&vCenter=true&width=900&lines=Algorithms+first.+Software+next.;Competitive+programming+is+the+core.;Development+is+the+next+layer.;Building+in+silence.+Competing+in+noise.)](https://git.io/typing-svg)
 
-<br/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=13&duration=2000&pause=99999&color=4A5568&center=true&vCenter=true&width=900&lines=Ahsanullah+University+of+Science+%26+Technology+%E2%80%94+B.Sc.+in+CSE+%7C+1st+Year%2C+2nd+Semester)](https://git.io/typing-svg)
-
-<br/>
 
 <img src="https://komarev.com/ghpvc/?username=rif-x43&color=050505&style=flat-square&label=PROFILE+VIEWS" alt="views"/>
 
