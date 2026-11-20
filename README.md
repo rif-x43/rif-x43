@@ -30,7 +30,7 @@
 
 <a href="https://github.com/rif-x43/ArenaOJ"><img src="assets/projArenaOJ.svg" width="32%" alt="ArenaOJ"/></a>
 <a href="https://github.com/rif-x43/Arena"><img src="assets/projArena.svg" width="32%" alt="Arena"/></a>
-<a href="https://github.com/rif-x43/AmarClass"><img src="assets/projAmarClass.svg" width="32%" alt="AmarClass"/></a>
+<a href="https://github.com/rif-x43/AmarClass"><img src="assets/projAmarClas.svg" width="32%" alt="AmarClass"/></a>
 <a href="https://github.com/rif-x43/Mintab"><img src="assets/projMintab.svg" width="32%" alt="Mintab"/></a>
 <a href="https://github.com/rif-x43/WebCopyyy"><img src="assets/projWebCopyyy.svg" width="32%" alt="WebCopyyy"/></a>
 <a href="https://github.com/rif-x43/Blurred"><img src="assets/projBlurred.svg" width="32%" alt="Blurred"/></a>
