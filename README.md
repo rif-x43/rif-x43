@@ -35,7 +35,7 @@
 <a href="https://github.com/rif-x43/WebCopyyy"><img src="assets/projWebCopyyy.svg" width="32%" alt="WebCopyyy"/></a>
 <a href="https://github.com/rif-x43/Blurred"><img src="assets/projBlurred.svg" width="32%" alt="Blurred"/></a>
 
-<sub><code>hackathon builds</code> &nbsp;·&nbsp; <a href="https://github.com/rif-x43/EcoCycle">EcoCycle</a> &nbsp;·&nbsp; ProfMate &nbsp;·&nbsp; CampusOS &nbsp;·&nbsp; <a href="https://github.com/rif-x43/CP-Archive_Codeforces">CP Archive</a></sub>
+<sub><code>Hackathon Builds</code> &nbsp;·&nbsp; <a href="https://github.com/rif-x43/EcoCycle">EcoCycle</a> &nbsp;·&nbsp; ProfMate &nbsp;·&nbsp; CampusOS &nbsp;·&nbsp;</sub>
 
 <br/><br/>
 
