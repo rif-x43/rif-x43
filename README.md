@@ -1,21 +1,25 @@
+<!-- Header & Intro -->
 <div align="center">
 <img src="assets/banner_cat-on-roof.gif" width="100%" alt="banner"/>
-<br/>
-
 <img src="assets/intro.svg" width="100%" alt="Mohammed Rif Ahsan, CSE student at AUST and competitive programmer"/>
 
-<br/><br/>
+<br>
 
+<!-- CP Profiles -->
 <img src="assets/h-profiles.svg" width="100%" alt="Competitive profiles"/>
+<br><br>
+<p align="center">
+  <a href="https://codeforces.com/profile/rif__x43"><img src="assets/codeforces.svg" alt="Codeforces" width="156"></a>
+  <a href="https://leetcode.com/u/rif__x43"><img src="assets/leetcode.svg" alt="LeetCode" width="156"></a>
+  <a href="https://atcoder.jp/users/rif__x43"><img src="assets/atcoder.svg" alt="AtCoder" width="156"></a>
+  <a href="https://cses.fi/user/504198"><img src="assets/cses.svg" alt="CSES" width="156"></a>
+  <a href="https://toph.co/p/rifx43"><img src="assets/toph.svg" alt="Toph" width="156"></a>
+</p>
 
-<a href="https://codeforces.com/profile/rif__x43"><img src="assets/cf.svg" width="32%" alt="Codeforces"/></a>
-<a href="https://atcoder.jp/users/rif__x43"><img src="assets/ac.svg" width="32%" alt="AtCoder"/></a>
-<a href="https://leetcode.com/rif__x43"><img src="assets/lc.svg" width="32%" alt="LeetCode"/></a>
+<br>
 
-<br/><br/>
-
+<!-- Achievements -->
 <img src="assets/h-ach.svg" width="100%" alt="Achievements"/>
-
 <img src="assets/achievements.svg" width="100%" alt="Achievements across CP, CTF, hackathons and UI/UX"/>
 
 <br/><br/>
