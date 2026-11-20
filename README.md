@@ -3,7 +3,7 @@
 <img src="assets/banner_cat-on-roof.gif" width="100%" alt="banner"/>
 <img src="assets/intro.svg" width="100%" alt="Mohammed Rif Ahsan, CSE student at AUST and competitive programmer"/>
 
-<br>
+<br><br>
 
 <!-- CP Profiles -->
 <img src="assets/h-profiles.svg" width="100%" alt="Competitive profiles"/>
