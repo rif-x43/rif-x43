@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="286" height="150" viewBox="0 0 286 150" fill="none">
+<defs></defs>
+<rect x=".5" y=".5" width="285" height="149" rx="14" fill="#0a0a1c" stroke="#22225a"/>
+<rect x="20" y="0" width="44" height="2" fill="#7ee787"/>
+<text x="20" y="38" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#e8e8ff">AmarClass</text>
+<circle cx="201" cy="33" r="3" fill="#7ee787"></circle>
+<text x="264" y="37" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,Menlo,monospace" font-size="10" letter-spacing="1.5" fill="#7ee787">SHIPPED</text>
+<text x="20" y="68" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="11" fill="#8b8fb8">Academic manager: quizzes, attendance,</text>
+<text x="20" y="85" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="11" fill="#8b8fb8">CGPA analytics and a community feed.</text>
+<rect x="20" y="108" width="68" height="20" rx="10" fill="#14143a" stroke="#22225a"/><text x="54.0" y="122" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,Menlo,monospace" font-size="10.5" fill="#7ee787">Flutter</text><rect x="94" y="108" width="74" height="20" rx="10" fill="#14143a" stroke="#22225a"/><text x="131.0" y="122" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,Menlo,monospace" font-size="10.5" fill="#7ee787">Firebase</text>
+</svg>

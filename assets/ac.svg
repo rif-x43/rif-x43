@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="286" height="100" viewBox="0 0 286 100" fill="none">
+<defs></defs>
+<rect x=".5" y=".5" width="285" height="99" rx="14" fill="#0a0a1c" stroke="#22225a"/>
+<rect x="0" y="22" width="3" height="56" rx="1.5" fill="#c9c9d6"/>
+<text x="24" y="32" font-family="ui-monospace,SFMono-Regular,Consolas,Menlo,monospace" font-size="10.5" letter-spacing="2" fill="#8b8fb8">ATCODER</text>
+<text x="24" y="66" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#c9c9d6">AtCoder</text>
+<text x="24" y="86" font-family="ui-monospace,SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#8b8fb8">rated contests · view profile</text>
+<text x="262" y="32" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,Menlo,monospace" font-size="11" fill="#e8e8ff">rif__x43 ↗</text>
+<circle cx="268" cy="28" r="3" fill="#c9c9d6"><animate attributeName="opacity" values="1;.2;1" dur="2.4s" repeatCount="indefinite"/></circle>
+</svg>
