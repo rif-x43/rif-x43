@@ -15,7 +15,7 @@ text{font-family:'JetBrains Mono','Cascadia Code','Fira Code','SF Mono',ui-monos
 <g transform="translate(0,1)"><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="0s" dur="0.5s" fill="freeze"/>
 <rect x="0" y="6" width="2" height="18" fill="#ffd24a"/>
 <text class="i" x="20" y="19">01</text><text class="r" x="56" y="19" fill="#ffd24a">CHAMPION</text>
-<text class="t" x="190" y="19">AUSTPIC Spring'25</text><text class="c" x="420" y="19">Intra-AUST · Junior Category</text>
+<text class="t" x="190" y="19">IAPC [Junior]</text><text class="c" x="420" y="19">AUSTPIC IAPC Spring'25</text>
 <rect x="846" y="7" width="28" height="16" stroke="#ffd24a" stroke-opacity=".5"/><text class="g" x="860" y="19" fill="#ffd24a">CP</text>
 <line class="l" x1="0" y1="29.5" x2="880" y2="29.5"/></g></g>
 
@@ -28,7 +28,7 @@ text{font-family:'JetBrains Mono','Cascadia Code','Fira Code','SF Mono',ui-monos
 
 <g transform="translate(0,61)"><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.24s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="0.24s" dur="0.5s" fill="freeze"/>
 <rect x="0" y="6" width="2" height="18" fill="#c9d1e0"/>
-<text class="i" x="20" y="19">03</text><text class="r" x="56" y="19" fill="#f0f0f2">RUNNER-UP</text>
+<text class="i" x="20" y="19">03</text><text class="r" x="56" y="19" fill="#c9d1e0">RUNNER-UP</text>
 <text class="t" x="190" y="19">UI/UX Competition</text><text class="c" x="420" y="19">AUST CSE Carnival 7.0</text>
 <rect x="824" y="7" width="50" height="16" stroke="#c9d1e0" stroke-opacity=".5"/><text class="g" x="849" y="19" fill="#c9d1e0">UI/UX</text>
 <line class="l" x1="0" y1="29.5" x2="880" y2="29.5"/></g></g>
@@ -36,7 +36,7 @@ text{font-family:'JetBrains Mono','Cascadia Code','Fira Code','SF Mono',ui-monos
 <g transform="translate(0,91)"><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.36s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="0.36s" dur="0.5s" fill="freeze"/>
 <rect x="0" y="6" width="2" height="18" fill="#79dafa"/>
 <text class="i" x="20" y="19">04</text><text class="r" x="56" y="19" fill="#79dafa">5TH</text>
-<text class="t" x="190" y="19">Intra-AUST Contest</text><text class="c" x="420" y="19">CSE Carnival 8.0 · Senior</text>
+<text class="t" x="190" y="19">IAPC</text><text class="c" x="420" y="19">AUST CSE Carnival 8.0</text>
 <rect x="846" y="7" width="28" height="16" stroke="#79dafa" stroke-opacity=".5"/><text class="g" x="860" y="19" fill="#79dafa">CP</text>
 <line class="l" x1="0" y1="29.5" x2="880" y2="29.5"/></g></g>
 
@@ -57,14 +57,14 @@ text{font-family:'JetBrains Mono','Cascadia Code','Fira Code','SF Mono',ui-monos
 <g transform="translate(0,181)"><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.72s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="0.72s" dur="0.5s" fill="freeze"/>
 <rect x="0" y="6" width="2" height="18" fill="#79dafa"/>
 <text class="i" x="20" y="19">07</text><text class="r" x="56" y="19" fill="#79dafa">25TH</text>
-<text class="t" x="190" y="19">DRMC Tech Carnival</text><text class="c" x="420" y="19">9th Intl. · Preliminary</text>
+<text class="t" x="190" y="19">DITC PC</text><text class="c" x="420" y="19">9th DRMC International Tech Carnival</text>
 <rect x="846" y="7" width="28" height="16" stroke="#79dafa" stroke-opacity=".5"/><text class="g" x="860" y="19" fill="#79dafa">CP</text>
 <line class="l" x1="0" y1="29.5" x2="880" y2="29.5"/></g></g>
 
 <g transform="translate(0,211)"><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.84s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="0.84s" dur="0.5s" fill="freeze"/>
 <rect x="0" y="6" width="2" height="18" fill="#79dafa"/>
-<text class="i" x="20" y="19">08</text><text class="r" x="56" y="19" fill="#79dafa">FINALIST</text>
-<text class="t" x="190" y="19">Intra-AUST Contest</text><text class="c" x="420" y="19">CSE Carnival 6.0</text>
+<text class="i" x="20" y="19">08</text><text class="r" x="56" y="19" fill="#79dafa">PARTICIPATED</text>
+<text class="t" x="190" y="19">ICPC Dhaka Regional Contest</text><text class="c" x="420" y="19">International Collegiate Programming Contest</text>
 <rect x="846" y="7" width="28" height="16" stroke="#79dafa" stroke-opacity=".5"/><text class="g" x="860" y="19" fill="#79dafa">CP</text>
 <line class="l" x1="0" y1="29.5" x2="880" y2="29.5"/></g></g>
 </svg>
