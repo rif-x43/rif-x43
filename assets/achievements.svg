@@ -1,4 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="242" viewBox="0 0 880 242" fill="none">
+<defs>
+<linearGradient id="gG" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#ffd35a" stop-opacity=".18"/><stop offset=".6" stop-color="#ffd35a" stop-opacity=".03"/><stop offset="1" stop-color="#ffd35a" stop-opacity="0"/></linearGradient>
+<linearGradient id="gS" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#c9d1e6" stop-opacity=".15"/><stop offset=".6" stop-color="#c9d1e6" stop-opacity=".03"/><stop offset="1" stop-color="#c9d1e6" stop-opacity="0"/></linearGradient>
+<linearGradient id="gC" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#79dafa" stop-opacity=".12"/><stop offset=".6" stop-color="#79dafa" stop-opacity=".02"/><stop offset="1" stop-color="#79dafa" stop-opacity="0"/></linearGradient>
+<filter id="glow" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
 <style>
 text{font-family:'JetBrains Mono','Cascadia Code','Fira Code','SF Mono',ui-monospace,Consolas,monospace}
 .i{font-size:11px;fill:#4a4f7a}
@@ -7,64 +13,81 @@ text{font-family:'JetBrains Mono','Cascadia Code','Fira Code','SF Mono',ui-monos
 .c{font-size:11px;fill:#8b8fb8}
 .g{font-size:10px;letter-spacing:1px;text-anchor:middle}
 .l{stroke:#22225a;stroke-opacity:.7}
+.G{fill:#ffd35a}.S{fill:#c9d1e6}.C{fill:#79dafa}
 </style>
 
 <line x1="0" y1=".5" x2="880" y2=".5" stroke="#22225a"/>
-<rect x="0" y="1" width="880" height="30" fill="#79dafa" opacity=".05"><animate attributeName="y" values="1;31;61;91;121;151;181;211" calcMode="discrete" dur="9.6s" begin="1.5s" repeatCount="indefinite"/></rect>
+<rect x="0" y="1" width="880" height="30" fill="#ffffff" opacity=".04"><animate attributeName="y" values="1;31;61;91;121;151;181;211" calcMode="discrete" dur="9.6s" begin="1.5s" repeatCount="indefinite"/></rect>
 
+<!-- 01 CHAMPION · gold -->
 <g transform="translate(0,1)"><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="0s" dur="0.5s" fill="freeze"/>
-<rect x="0" y="6" width="3" height="18" fill="#79dafa"/>
-<text class="i" x="20" y="19">01</text><text class="r" x="56" y="19" fill="#79dafa">CHAMPION</text>
+<rect x="0" y="0" width="880" height="30" fill="url(#gG)"/>
+<rect x="0" y="6" width="3" height="18" fill="#ffd35a"/>
+<text class="i" x="20" y="19">01</text><text class="r G" x="56" y="19" filter="url(#glow)">CHAMPION</text>
 <text class="t" x="190" y="19">AUSTPIC Spring'25</text><text class="c" x="420" y="19">Intra-AUST · Junior Category</text>
-<rect x="846" y="7" width="28" height="16" stroke="#79dafa" stroke-opacity=".5"/><text class="g" x="860" y="19" fill="#79dafa">CP</text>
+<rect x="846" y="7" width="28" height="16" stroke="#ffd35a" stroke-opacity=".5"/><text class="g G" x="860" y="19">CP</text>
 <line class="l" x1="0" y1="29.5" x2="880" y2="29.5"/></g></g>
 
+<!-- 02 RUNNER-UP · silver -->
 <g transform="translate(0,31)"><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.12s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="0.12s" dur="0.5s" fill="freeze"/>
-<rect x="0" y="6" width="3" height="18" fill="#f08cff"/>
-<text class="i" x="20" y="19">02</text><text class="r" x="56" y="19" fill="#f08cff">RUNNER-UP</text>
+<rect x="0" y="0" width="880" height="30" fill="url(#gS)"/>
+<rect x="0" y="6" width="3" height="18" fill="#c9d1e6"/>
+<text class="i" x="20" y="19">02</text><text class="r S" x="56" y="19" filter="url(#glow)">RUNNER-UP</text>
 <text class="t" x="190" y="19">Capture the Flag</text><text class="c" x="420" y="19">AUST CSE Carnival 8.0</text>
-<rect x="838" y="7" width="36" height="16" stroke="#f08cff" stroke-opacity=".5"/><text class="g" x="856" y="19" fill="#f08cff">CTF</text>
+<rect x="838" y="7" width="36" height="16" stroke="#c9d1e6" stroke-opacity=".5"/><text class="g S" x="856" y="19">CTF</text>
 <line class="l" x1="0" y1="29.5" x2="880" y2="29.5"/></g></g>
 
+<!-- 03 RUNNER-UP · silver -->
 <g transform="translate(0,61)"><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.24s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="0.24s" dur="0.5s" fill="freeze"/>
-<rect x="0" y="6" width="3" height="18" fill="#ffc66d"/>
-<text class="i" x="20" y="19">03</text><text class="r" x="56" y="19" fill="#ffc66d">RUNNER-UP</text>
+<rect x="0" y="0" width="880" height="30" fill="url(#gS)"/>
+<rect x="0" y="6" width="3" height="18" fill="#c9d1e6"/>
+<text class="i" x="20" y="19">03</text><text class="r S" x="56" y="19" filter="url(#glow)">RUNNER-UP</text>
 <text class="t" x="190" y="19">UI/UX Competition</text><text class="c" x="420" y="19">AUST CSE Carnival 7.0</text>
-<rect x="824" y="7" width="50" height="16" stroke="#ffc66d" stroke-opacity=".5"/><text class="g" x="849" y="19" fill="#ffc66d">UI/UX</text>
+<rect x="824" y="7" width="50" height="16" stroke="#c9d1e6" stroke-opacity=".5"/><text class="g S" x="849" y="19">UI/UX</text>
 <line class="l" x1="0" y1="29.5" x2="880" y2="29.5"/></g></g>
 
+<!-- 04 5TH · cyan -->
 <g transform="translate(0,91)"><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.36s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="0.36s" dur="0.5s" fill="freeze"/>
+<rect x="0" y="0" width="880" height="30" fill="url(#gC)"/>
 <rect x="0" y="6" width="3" height="18" fill="#79dafa"/>
-<text class="i" x="20" y="19">04</text><text class="r" x="56" y="19" fill="#79dafa">5TH</text>
+<text class="i" x="20" y="19">04</text><text class="r C" x="56" y="19" filter="url(#glow)">5TH</text>
 <text class="t" x="190" y="19">Intra-AUST Contest</text><text class="c" x="420" y="19">CSE Carnival 8.0 · Senior</text>
-<rect x="846" y="7" width="28" height="16" stroke="#79dafa" stroke-opacity=".5"/><text class="g" x="860" y="19" fill="#79dafa">CP</text>
+<rect x="846" y="7" width="28" height="16" stroke="#79dafa" stroke-opacity=".5"/><text class="g C" x="860" y="19">CP</text>
 <line class="l" x1="0" y1="29.5" x2="880" y2="29.5"/></g></g>
 
+<!-- 05 TOP 10 · cyan -->
 <g transform="translate(0,121)"><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.48s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="0.48s" dur="0.5s" fill="freeze"/>
-<rect x="0" y="6" width="3" height="18" fill="#7ee787"/>
-<text class="i" x="20" y="19">05</text><text class="r" x="56" y="19" fill="#7ee787">TOP 10</text>
+<rect x="0" y="0" width="880" height="30" fill="url(#gC)"/>
+<rect x="0" y="6" width="3" height="18" fill="#79dafa"/>
+<text class="i" x="20" y="19">05</text><text class="r C" x="56" y="19" filter="url(#glow)">TOP 10</text>
 <text class="t" x="190" y="19">AI Build Hackathon</text><text class="c" x="420" y="19">CSE Carnival 8.0 · Finalist</text>
-<rect x="831" y="7" width="43" height="16" stroke="#7ee787" stroke-opacity=".5"/><text class="g" x="853" y="19" fill="#7ee787">HACK</text>
+<rect x="831" y="7" width="43" height="16" stroke="#79dafa" stroke-opacity=".5"/><text class="g C" x="853" y="19">HACK</text>
 <line class="l" x1="0" y1="29.5" x2="880" y2="29.5"/></g></g>
 
+<!-- 06 6TH · cyan -->
 <g transform="translate(0,151)"><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.6s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="0.6s" dur="0.5s" fill="freeze"/>
-<rect x="0" y="6" width="3" height="18" fill="#7ee787"/>
-<text class="i" x="20" y="19">06</text><text class="r" x="56" y="19" fill="#7ee787">6TH</text>
+<rect x="0" y="0" width="880" height="30" fill="url(#gC)"/>
+<rect x="0" y="6" width="3" height="18" fill="#79dafa"/>
+<text class="i" x="20" y="19">06</text><text class="r C" x="56" y="19" filter="url(#glow)">6TH</text>
 <text class="t" x="190" y="19">Hackathon</text><text class="c" x="420" y="19">AUST CSE Carnival 7.0</text>
-<rect x="831" y="7" width="43" height="16" stroke="#7ee787" stroke-opacity=".5"/><text class="g" x="853" y="19" fill="#7ee787">HACK</text>
+<rect x="831" y="7" width="43" height="16" stroke="#79dafa" stroke-opacity=".5"/><text class="g C" x="853" y="19">HACK</text>
 <line class="l" x1="0" y1="29.5" x2="880" y2="29.5"/></g></g>
 
+<!-- 07 25TH · cyan -->
 <g transform="translate(0,181)"><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.72s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="0.72s" dur="0.5s" fill="freeze"/>
+<rect x="0" y="0" width="880" height="30" fill="url(#gC)"/>
 <rect x="0" y="6" width="3" height="18" fill="#79dafa"/>
-<text class="i" x="20" y="19">07</text><text class="r" x="56" y="19" fill="#79dafa">25TH</text>
+<text class="i" x="20" y="19">07</text><text class="r C" x="56" y="19" filter="url(#glow)">25TH</text>
 <text class="t" x="190" y="19">DRMC Tech Carnival</text><text class="c" x="420" y="19">9th Intl. · Preliminary</text>
-<rect x="846" y="7" width="28" height="16" stroke="#79dafa" stroke-opacity=".5"/><text class="g" x="860" y="19" fill="#79dafa">CP</text>
+<rect x="846" y="7" width="28" height="16" stroke="#79dafa" stroke-opacity=".5"/><text class="g C" x="860" y="19">CP</text>
 <line class="l" x1="0" y1="29.5" x2="880" y2="29.5"/></g></g>
 
+<!-- 08 FINALIST · cyan -->
 <g transform="translate(0,211)"><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.84s" dur="0.5s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="0.84s" dur="0.5s" fill="freeze"/>
+<rect x="0" y="0" width="880" height="30" fill="url(#gC)"/>
 <rect x="0" y="6" width="3" height="18" fill="#79dafa"/>
-<text class="i" x="20" y="19">08</text><text class="r" x="56" y="19" fill="#79dafa">FINALIST</text>
+<text class="i" x="20" y="19">08</text><text class="r C" x="56" y="19" filter="url(#glow)">FINALIST</text>
 <text class="t" x="190" y="19">Intra-AUST Contest</text><text class="c" x="420" y="19">CSE Carnival 6.0</text>
-<rect x="846" y="7" width="28" height="16" stroke="#79dafa" stroke-opacity=".5"/><text class="g" x="860" y="19" fill="#79dafa">CP</text>
+<rect x="846" y="7" width="28" height="16" stroke="#79dafa" stroke-opacity=".5"/><text class="g C" x="860" y="19">CP</text>
 <line class="l" x1="0" y1="29.5" x2="880" y2="29.5"/></g></g>
 </svg>
