@@ -19,11 +19,13 @@
 <br>
 
 <!-- Achievements -->
+<br><br>
 <img src="assets/h-ach.svg" width="100%" alt="Achievements"/>
 <img src="assets/achievements.svg" width="100%" alt="Achievements across CP, CTF, hackathons and UI/UX"/>
 
-<br/><br/>
+<br>
 
+<!-- Projects -->
 <img src="assets/h-proj.svg" width="100%" alt="Projects"/>
 
 <a href="https://github.com/rif-x43/ArenaOJ"><img src="assets/projArenaOJ.svg" width="32%" alt="ArenaOJ"/></a>
