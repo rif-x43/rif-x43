@@ -9,11 +9,11 @@
 <img src="assets/h-profiles.svg" width="100%" alt="Competitive profiles"/>
 <br><br>
 <p align="center">
-  <a href="https://codeforces.com/profile/rif__x43"><img src="assets/codeforces.svg" alt="Codeforces" width="20%"></a>
-  <a href="https://leetcode.com/u/rif__x43"><img src="assets/leetcode.svg" alt="LeetCode" width="20%"></a>
-  <a href="https://atcoder.jp/users/rif__x43"><img src="assets/atcoder.svg" alt="AtCoder" width="20%"></a>
-  <a href="https://cses.fi/user/504198"><img src="assets/cses.svg" alt="CSES" width="20%"></a>
-  <a href="https://toph.co/p/rifx43"><img src="assets/toph.svg" alt="Toph" width="20%"></a>
+  <a href="https://codeforces.com/profile/rif__x43"><img src="assets/codeforces.svg" alt="Codeforces" width="19%"></a>
+  <a href="https://leetcode.com/u/rif__x43"><img src="assets/leetcode.svg" alt="LeetCode" width="19%"></a>
+  <a href="https://atcoder.jp/users/rif__x43"><img src="assets/atcoder.svg" alt="AtCoder" width="19%"></a>
+  <a href="https://cses.fi/user/504198"><img src="assets/cses.svg" alt="CSES" width="19%"></a>
+  <a href="https://toph.co/p/rifx43"><img src="assets/toph.svg" alt="Toph" width="19%"></a>
 </p>
 
 <br>
