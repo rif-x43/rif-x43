@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="36" viewBox="0 0 880 36" fill="none">
 <defs></defs>
-<text x="0" y="24" font-family="ui-monospace,SFMono-Regular,Consolas,Menlo,monospace" font-size="12" fill="#79dafa">05</text>
+<text x="0" y="24" font-family="ui-monospace,SFMono-Regular,Consolas,Menlo,monospace" font-size="12" fill="#a7a4ed">05</text>
 <text x="30" y="24" font-family="ui-monospace,SFMono-Regular,Consolas,Menlo,monospace" font-size="12" letter-spacing="4" fill="#e8e8ff">CONTRIBUTIONS</text>
 <line x1="194" y1="20" x2="880" y2="20" stroke="#22225a"/>
 <circle cy="20" r="2.5" fill="#79dafa"><animate attributeName="cx" values="194;880" dur="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite"/></circle>
