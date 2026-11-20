@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="286" height="150" viewBox="0 0 286 150" fill="none">
 <defs></defs>
-<rect x=".5" y=".5" width="285" height="149" rx="14" fill="#0a0a1c" stroke="#22225a"/>
+<rect x=".5" y=".5" width="285" height="149" rx="14" fill="#0a0a1c"/>
 <rect x="20" y="0" width="44" height="2" fill="#ffc66d"/>
 <text x="20" y="38" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#e8e8ff">WebCopyyy</text>
 <circle cx="201" cy="33" r="3" fill="#ffc66d"></circle>
