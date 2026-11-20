@@ -12,7 +12,7 @@
 
 <g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.000;0.005;0.313;0.333;1" dur="9s" repeatCount="indefinite"/>
 <clipPath id="c0"><rect x="40" y="166" height="22" width="0"><animate attributeName="width" values="0;0;204;204" keyTimes="0;0.000;0.120;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
-<text x="40" y="182" font-family="'JetBrains Mono','Cascadia Code','Fira Code','SF Mono',ui-monospace,Consolas,monospace" font-size="10" fill="#9d9dff" clip-path="url(#c0)" xml:space="preserve" textLength="204" lengthAdjust="spacing">&gt; Pupil in Codeforces, Max 1246</text>
+<text x="40" y="182" font-family="'JetBrains Mono','Cascadia Code','Fira Code','SF Mono',ui-monospace,Consolas,monospace" font-size="10" fill="#9d9dff" clip-path="url(#c0)" xml:space="preserve" textLength="204" lengthAdjust="spacing">&gt; Pupil in Codeforces, Max 1246.</text>
 <rect x="40" y="171" width="6" height="12" fill="#79dafa"><animate attributeName="x" values="40;40;244;244" keyTimes="0;0.000;0.120;1" dur="9s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect></g><g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.333;0.338;0.647;0.667;1" dur="9s" repeatCount="indefinite"/>
 <clipPath id="c1"><rect x="40" y="166" height="22" width="0"><animate attributeName="width" values="0;0;228;228" keyTimes="0;0.333;0.453;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
 <text x="40" y="182" font-family="'JetBrains Mono','Cascadia Code','Fira Code','SF Mono',ui-monospace,Consolas,monospace" font-size="10" fill="#9d9dff" clip-path="url(#c1)" xml:space="preserve" textLength="228" lengthAdjust="spacing">&gt; Obsessed with optimal solutions.</text>
