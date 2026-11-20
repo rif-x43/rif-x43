@@ -39,14 +39,11 @@
 
 <br/><br/>
 
+<!-- Languages and Tools -->
 <img src="assets/h-stack.svg" width="100%" alt="Stack"/>
 
 <img src="assets/stack.svg" width="100%" alt="Languages and tools"/>
 
-<br/><br/>
-
-<img src="assets/h-contrib.svg" width="100%" alt="Contributions"/>
-
+<!-- Footer -->
 <img src="game.gif" width="100%" alt="My GitHub contributions as a space shooter"/>
-
 </div>
